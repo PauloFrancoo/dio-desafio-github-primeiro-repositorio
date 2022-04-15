@@ -1,0 +1,4 @@
+Links para Download do Git: https://git-scm.com/download/win
+
+O GitBash é um terminal extendido para otimizar o uso do Git.
+
